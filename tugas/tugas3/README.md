@@ -1,4 +1,4 @@
 # Deskripsi Tugas
 
-Membuat greenscreen menggunakan mask, mask invers, dan juga bisa menggunakan background menggunakan HSV color detection
+Membuat greenscreen menggunakan bitwise, resize, dan juga bisa menggunakan background menggunakan HSV color detection
 
