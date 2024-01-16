@@ -1,3 +1,4 @@
 # Deskripsi Tugas
 
-Untuk tugas tiga kalian bebas mau buat apa. Sesuai kreativitas kalian masing masing mau buat apa. Kalau mau buat object detection boleh tapi pakai dataset kalian sendiri :)
+Membuat greenscreen menggunakan mask, mask invers, dan juga bisa menggunakan background menggunakan HSV color detection
+
