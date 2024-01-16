@@ -17,7 +17,7 @@ def gs(image):
     # input background
     background = cv2.imread("MagangBayu2024-OpenCV/tugas/tugas3/tugas3.jpg")
 
-    # resize agar background bisa sepadan dengan ukuran frae
+    # resize agar background bisa sepadan dengan ukuran frame
     background = cv2.resize(background, (image.shape[1], image.shape[0]))
 
     # agar background hanya muncul pada mask
